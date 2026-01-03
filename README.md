@@ -10,11 +10,12 @@ Resumos Estruturados
 
 A. Fundamentos de Machine Learning (ML)
 O Machine Learning é um campo da IA que permite que computadores aprendam padrões a partir de dados para tomar decisões ou fazer previsões sem serem explicitamente programados. No setor financeiro, essa tecnologia é alimentada por Big Data, que envolve a análise de conjuntos de dados vastos e complexos, tanto estruturados quanto não estruturados. Enquanto a IA tradicional foca em modelos estatísticos para prever resultados baseados em parâmetros de entrada e saída, a IA Generativa representa um salto, sendo capaz de criar novos conteúdos (texto, imagens, código) a partir do que aprendeu.
-As categorias principais de aprendizado incluem:
-• Supervisionado: O modelo aprende com dados rotulados (exemplos com respostas certas).
-• Não Supervisionado: O modelo busca padrões ou grupos escondidos em dados sem rótulos.
-• Semi-supervisionado: Combina pequenas quantidades de dados rotulados com grandes volumes de dados não rotulados.
-• Por Reforço: O modelo aprende através de tentativa e erro, recebendo recompensas ou penalidades conforme suas ações em um ambiente.
+
+As categorias principais de aprendizado incluem:  
+• Supervisionado: O modelo aprende com dados rotulados (exemplos com respostas certas).  
+• Não Supervisionado: O modelo busca padrões ou grupos escondidos em dados sem rótulos.  
+• Semi-supervisionado: Combina pequenas quantidades de dados rotulados com grandes volumes de dados não rotulados.  
+• Por Reforço: O modelo aprende através de tentativa e erro, recebendo recompensas ou penalidades conforme suas ações em um ambiente.  
 
 B. O Fluxo de Desenvolvimento de Modelos em Finanças
 O treinamento de um modelo de ML segue um caminho estruturado de 10 etapas essenciais para garantir eficácia e segurança:
