@@ -1,5 +1,5 @@
 # AI Finance NotebookLM
-Este repositório contém um miniguia de estudo,criado com notebookLM, sobre Inteligência Artificial aplicada ao mercado financeiro, com resumos estruturados, glossário de conceitos-chave e prompts reutilizáveis para revisão e aprofundamento.
+Este repositório contém um miniguia de estudo, criado com notebookLM, sobre Inteligência Artificial aplicada ao mercado financeiro, com resumos estruturados, glossário de conceitos-chave e prompts reutilizáveis para revisão e aprofundamento.
 
 ## Conteúdo
 1. Resumos Estruturados
@@ -66,3 +66,11 @@ Utilize estes prompts em ferramentas de IA para aprofundar seus estudos ou revis
 • Para Tendências de Mercado: "Com base nos conceitos de bibliometria, descreva a evolução dos modelos uni-modais para multi-modais na previsão do mercado de ações e quais dados (texto vs. números) cada um integra."
 
 Analogia para fixar o conhecimento: Podemos imaginar que o treinamento de um modelo de Machine Learning é como o funcionamento de um motor de alto desempenho: os dados são o combustível que alimenta o sistema; o modelo é o motor que processa esse combustível; e o treinamento é o ajuste fino dos componentes mecânicos para garantir que a predição final seja uma viagem rápida e precisa ao destino desejado.
+
+## Fontes
+
+https://financetechboost.com/wp-content/uploads/2025/05/05_Curso-Machine-Learning-e-Financas.pdf  
+https://www.udesc.br/arquivos/udesc/id_cpmenu/14739/12_1634659905506_14739.pdf  
+https://home.treasury.gov/system/files/136/Artificial-Intelligence-in-Financial-Services.pdf  
+https://www.fsb.org/uploads/P011117.pdf  
+https://pdfs.semanticscholar.org/e612/6126d492ae5e80e7cac5888fafcda4e7cff8.pdf
